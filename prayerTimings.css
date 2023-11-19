@@ -1,0 +1,46 @@
+body 
+{
+  background-image: url('backgroundQuran.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#show_Prayer_Timing
+{
+  display: none;
+}
+
+.card 
+{
+  background-color: white;
+  color: black;
+  height: auto;
+  position: relative;
+  left: 350px;
+  width: 400px;
+  top: 20px;
+}
+
+.dark-mode 
+{
+  background-color: #212529;
+  color: white;
+}
+
+.card-header
+{
+  font-size: 30px;
+}
+
+#prayerTimings p {
+  margin: 0.2rem 0; /
+}
+
+.alert {
+  margin-top: 10px;
+}
+.timing_show
+{
+  padding-left: 20px;
+  font-size: 17px;
+}

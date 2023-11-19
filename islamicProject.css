@@ -1,0 +1,41 @@
+body 
+{
+  background-image: url('pic4.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+  
+#show_Ayah, #showTranslation 
+{
+  display: none;
+}
+  
+.card 
+{
+  background-color: #212529;
+  color: white;
+  position: relative;
+  bottom: 7px;
+  left: 200px;
+}
+  
+.light-mode 
+{
+  background-color: white;
+  color: black;
+}
+
+#ayatsContainer 
+{
+  margin-top: 10px;
+}
+
+.btn-secondary
+{
+  width: 32%;
+}
+
+.form-label
+{
+    font-size: 16px;
+}

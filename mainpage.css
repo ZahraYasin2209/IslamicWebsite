@@ -1,0 +1,24 @@
+body {
+    background-image: url('pic3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card {
+    background-color: #212529;
+    color: white;
+}
+
+
+.light-mode {
+    background-color: white;
+    color: black;
+    .btn-outline-info
+    {
+        background-color: rgb(70, 69, 69);
+        color: white;
+        border: 1px solid black;
+    }
+}
+
+
