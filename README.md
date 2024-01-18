@@ -1,6 +1,6 @@
 # Quran Ayah Translation, Recitation and Prayer Timings Search Website
 Welcome to the Quranic Ayah Search, Recitation and Prayer Timings Search website! 
-This web application allows users to search for specific Surahs, Ayahs (verses) from the Quran, retrieve their translations, and even listen to their recitations. Also allow user to access Prayer timings tailored to your locale and find Qibla direction based on your gergraphical location. The application is built using HTML, CSS, Bootstrap, JavaScript, and utilizes an API to fetch and display Quranic data, display Prayer timings and also to pinpoint Qibla direction. It also features error handling to provide a smooth user experience.
+This web application allows users to search for specific Surahs, Ayahs (verses) from the Quran, retrieve their translations, and even listen to their recitations. Also allow user to access Prayer timings tailored to your locale and find Qibla direction based on your geographical location. The application is built using HTML, CSS, Bootstrap, JavaScript, and utilizes an API to fetch and display Quranic data, display Prayer timings and also to pinpoint Qibla direction. It also features error handling to provide a smooth user experience.
 
 # Features
 1.	Search Surah: Enter a specific surah number or a keyword to search for relevant Quranic ayahs for that Surah.
